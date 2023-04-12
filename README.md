@@ -7,19 +7,14 @@ EaST-MELD has the following features:
 
 - - - -
 ## Examples:
+
 |Emotion|Sentiment|English|Japanese|
 |——|——|——|——|
-|surprise|negative|This sounds like a hernia. You have
-to―you―you go to the doctor!|ヘルニアだな医者
-へ|
-|fear|negative|No way! ‘Kay look, if I have to go
-to the doctor for anything it’s gonna
-be for this thing sticking out of my
-Stomach!|行くもんかこの何かが腹から出てくるまではな|
+|surprise|negative|This sounds like a hernia. You have to―you―you go to the doctor!|ヘルニアだな医者へ|
+|fear|negative|No way! ‘Kay look, if I have to go to the doctor for anything it’s gonna be for this thing sticking out of my Stomach!|行くもんかこの何かが腹から出てくるまではな|
 |disgust|negative|That’s a hernia.|脱腸だって|
-|anger|negative|Why did I have to start working out
-again? Damn you 15s!|運動して失敗した
-ダンベルのバカ!|
+|anger|negative|Why did I have to start working out again? Damn you 15s!|運動して失敗した ダンベルのバカ!|
+
 - - - -
 ## Splits:
 | |# of utterances|
