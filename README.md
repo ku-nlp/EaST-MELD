@@ -49,7 +49,7 @@ Please, note that by downloading the dataset, you agree to the following conditi
 - The dataset can only be used for research purposes. Any other use is explicitly prohibited.
 
 ## Download the wav files:
-If you are interested in the speech data of EaST-MELD, please contact  [yahata@nlp.ist.i.kyoto-u.ac.jp](mailto:liyh@nlp.ist.i.kyoto-u.ac.jp) .
+If you are interested in the speech data of EaST-MELD, please contact  [yahata@nlp.ist.i.kyoto-u.ac.jp](mailto:yahata@nlp.ist.i.kyoto-u.ac.jp) .
 
 ## Citation:
 ```
